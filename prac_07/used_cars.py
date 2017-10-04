@@ -1,4 +1,4 @@
-from prac_07.cars import Car
+from prac_08.cars import Car
 
 
 def main():
